@@ -1,0 +1,14 @@
+.form-container {
+    margin: 30px;
+    border-width: 1px;
+    border-top: 3px;
+    border-style: solid;
+    padding: 5px;
+
+}
+
+h1 {
+    margin: 30px;
+    border-style: solid;
+    padding: 10px;
+}
